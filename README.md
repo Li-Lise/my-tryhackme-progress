@@ -1,6 +1,6 @@
 # TryHackMe — Suivi de Progression
 **Compte :** devlabcyb  
-**Objectif :** Bachelor Systemes & Reseaux, Cloud & Cybersecurite — Alternance Admin SR / DevSecOps  
+**Objectif :** Autoformation amelioree
 **Co_Worker :** LLM | CLAUDE Sonnet 4.6  
 
 ---
