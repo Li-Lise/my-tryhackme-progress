@@ -10,7 +10,7 @@
 
 | Path | Niveau | Statut | Completion |
 |------|--------|--------|------------|
-| Pre Security | Debutant | 🔄 En cours | 1% |
+| Pre Security | Debutant | 🔄 En cours | 10% |
 | Security Engineer | Easy | ⏳ A venir | 0% |
 | DevSecOps | Intermediate | ⏳ A venir | 0% |
 | Attacking and Defending AWS | Intermediate | ⏳ A venir | 0% |
@@ -25,7 +25,7 @@
 
 | Room | Statut | Debut | Fin | Apport personnel | Valeur equipe |
 |------|--------|-------|-----|-----------------|---------------|
-| Offensive Security Intro | ⏳ | - | - | - | - |
+| Offensive Security Intro | ✅ | 10/04/2026 20H23 | 10/04/2026 21H10 | Comprendre l'attaque côté offensif | Comment valider une attaque au sein de la RedTeam |
 | Defensive Security Intro | ⏳ | - | - | - | - |
 | Careers in Cyber | ⏳ | - | - | - | - |
 
