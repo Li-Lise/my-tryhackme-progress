@@ -10,7 +10,7 @@
 
 | Path | Niveau | Statut | Completion |
 |------|--------|--------|------------|
-| Pre Security | Debutant | 🔄 En cours | 10% |
+| Pre Security | Debutant | 🔄 En cours | 20% |
 | Security Engineer | Easy | ⏳ A venir | 0% |
 | DevSecOps | Intermediate | ⏳ A venir | 0% |
 | Attacking and Defending AWS | Intermediate | ⏳ A venir | 0% |
@@ -26,7 +26,7 @@
 | Room | Statut | Debut | Fin | Apport personnel | Valeur equipe |
 |------|--------|-------|-----|-----------------|---------------|
 | Offensive Security Intro | ✅ | 10/04/2026 20H23 | 10/04/2026 21H10 | Comprendre l'attaque côté offensif | Comment valider une attaque au sein de la RedTeam |
-| Defensive Security Intro | ⏳ | - | - | - | - |
+| Defensive Security Intro | ✅ | 11/04/2026 22H54 | 11/04/2026 23H18 | Comprendre les domaines defensifs : SOC, Threat Intelligence, DFIR, Malware Analysis et SIEM — le Blue Team repond aux attaques et surveille les systemes | Capacite a identifier les outils de detection et de reponse aux incidents utilises dans un SOC | 32 points |
 | Careers in Cyber | ⏳ | - | - | - | - |
 
 ### Module 2 — Network Fundamentals
