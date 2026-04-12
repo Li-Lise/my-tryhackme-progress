@@ -11,7 +11,7 @@
 | Path | Niveau | Statut | Completion |
 |------|--------|--------|------------|
 | Pre Security | Debutant | 🔄 En cours | 7% |
-| Security Engineer | Easy | ⏳ A venir | 0% |
+| Security Engineer | Easy | ✅ | 100% |
 | DevSecOps | Intermediate | ⏳ A venir | 0% |
 | Attacking and Defending AWS | Intermediate | ⏳ A venir | 0% |
 
