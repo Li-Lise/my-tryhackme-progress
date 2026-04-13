@@ -10,7 +10,7 @@
 
 | Path | Niveau | Statut | Completion |
 |------|--------|--------|------------|
-| Pre Security | Debutant | 🔄 En cours | 7% |
+| Pre Security | Debutant | 🔄 En cours | 10% |
 | Security Engineer | Easy | ✅ | 100% |
 | DevSecOps | Intermediate | ⏳ A venir | 0% |
 | Attacking and Defending AWS | Intermediate | ⏳ A venir | 0% |
@@ -33,7 +33,7 @@
 
 | Room | Statut | Debut | Fin | Apport personnel | Valeur equipe |
 |------|--------|-------|-----|-----------------|---------------|
-| What is Networking? | ⏳ | - | - | - | - |
+| What is Networking? | ✅ | 13/04/2026 21H31 | 13/04/2026 23H35 | Bases réseau : IP, MAC, topologies | Pre Security — Network Fundamentals |
 | Intro to LAN | ⏳ | - | - | - | - |
 | OSI Model | ⏳ | - | - | - | - |
 | Packets & Frames | ⏳ | - | - | - | - |
