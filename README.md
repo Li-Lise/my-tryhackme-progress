@@ -10,7 +10,7 @@
 
 | Path | Niveau | Statut | Completion |
 |------|--------|--------|------------|
-| Pre Security | Debutant | 🔄 En cours | 10% |
+| Pre Security | Debutant | 🔄 En cours | 12% |
 | Security Engineer | Easy | ✅ | 100% |
 | DevSecOps | Intermediate | ⏳ A venir | 0% |
 | Attacking and Defending AWS | Intermediate | ⏳ A venir | 0% |
@@ -34,7 +34,7 @@
 | Room | Statut | Debut | Fin | Apport personnel | Valeur equipe |
 |------|--------|-------|-----|-----------------|---------------|
 | What is Networking? | ✅ | 13/04/2026 21H31 | 13/04/2026 23H35 | Bases réseau : IP, MAC, topologies | Pre Security — Network Fundamentals |
-| Intro to LAN | ⏳ | - | - | - | - |
+| Intro to LAN | ✅ | 14/04/2026 22H55  | 14/04/2026 22H57| Topologies reseau (Star, Bus, Ring), sous-reseaux et adressage IP prive, protocole ARP et role des switches dans un LAN | Capacite a concevoir et segmenter un reseau local, comprendre les echanges ARP entre machines |
 | OSI Model | ⏳ | - | - | - | - |
 | Packets & Frames | ⏳ | - | - | - | - |
 | Extending the Network | ⏳ | - | - | - | - |
