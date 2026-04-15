@@ -35,7 +35,7 @@
 |------|--------|-------|-----|-----------------|---------------|
 | What is Networking? | ✅ | 13/04/2026 21H31 | 13/04/2026 23H35 | Bases réseau : IP, MAC, topologies | Pre Security — Network Fundamentals |
 | Intro to LAN | ✅ | 14/04/2026 22H55  | 14/04/2026 22H57| Topologies reseau (Star, Bus, Ring), sous-reseaux et adressage IP prive, protocole ARP et role des switches dans un LAN | Capacite a concevoir et segmenter un reseau local, comprendre les echanges ARP entre machines |
-| OSI Model | ⏳ | - | - | - | - |
+| OSI Model | ⏳ | 15/04/2026 | - | - | - |
 | Packets & Frames | ⏳ | - | - | - | - |
 | Extending the Network | ⏳ | - | - | - | - |
 
